@@ -14,6 +14,8 @@ The process of downloading and setting up Neovim
 - [3. Download and Install Neovim -Scoop](#Download-and-Install-Neovim--Scoop)
 - [4. Setting Environment Variables](#Setting-Environment-Variables)
 - [5. Additional Configuration and Customization](#Additional-Configuration-and-Customization)
+- [6. powershell git push](#)
+
 ### Q&A
 ### References
 - [Scoop공식 사이트](https://scoop.sh/)
