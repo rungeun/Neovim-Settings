@@ -30,35 +30,86 @@ PowerShell 버전을 확인하기 위해 PowerShell 콘솔에`$PSVersionTable`�
 ```
 
 ## Butkit 설치
+Scoop에서 버킷은 **패키지 모음**을 의미 합니다
 
+```powershell
+scoop bucket add <버킷이름>
+```
 [Butkit 목록](https://rasa.github.io/scoop-directory/by-stars)
 
-## 
+## Package 설치
+### 아래 순서대로 설치
+```powershell
+scoop install git
+scoop install aria2
+scoop install
+```
+### 패키지 설명
+다중 다운로드
 
+설명
+```powershell
+scoop install aria2
+```
+---
+ 이름
 
+ 설명
+```powershell
 
+```
+---
+ 이름
 
+ 설명
+```powershell
 
+```
+---
+ 이름
 
+ 설명
+```powershell
 
+```
+---
+ 이름
 
+ 설명
+```powershell
 
+```
+---
 
+## 기타 명령어
+### 설치한 목록 보기
+```powershell
+scoop list
+```
+### 앱 찾기 및 설치
+1. 앱 찾기
+```poqweshell
+scoop search <패키지이름>
+```
+2. sudo로 관리자 권한 부여
+```poqweshell
+scoop install <패키지이름>
+```
+3. 권한을 부여하여 설치
+```poqweshell
+sudo scoop install <패키지이름>
+```
 
+### 패키지 제거
+```poqweshell
+scoop uninstall <패키지이름>
+```
 
-
-
-
-
-
-
-
-
-<br>
-<br>
-<br>
+[참고 자료](https://github.com/lesstif/scoop-bucket-for-korean)
 
 ## 참고문헌: 
 [Scoop공식문서](https://github.com/ScoopInstaller/Scoop#readme)
 
 [Bukkit](https://rasa.github.io/scoop-directory/by-stars)
+
+[Neovim Setup on Windows](https://www.jasonross.dev/neovim-setup-on-windows-2022/)
