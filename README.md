@@ -10,11 +10,13 @@ The process of downloading and setting up Neovim
 ## Index
 ###  Neovim
 - [1. Windows PowerShell Settings](#Windows-PowerShell-Settings)
-- [2. Download and Install Neovim -Scoop](#Download-and-Install-Neovim--Scoop)
-- [3. Setting Environment Variables](#Setting-Environment-Variables)
-- [4. Additional Configuration and Customization](#Additional-Configuration-and-Customization)
+- [2. Install Scoop](#)
+- [3. Download and Install Neovim -Scoop](#Download-and-Install-Neovim--Scoop)
+- [4. Setting Environment Variables](#Setting-Environment-Variables)
+- [5. Additional Configuration and Customization](#Additional-Configuration-and-Customization)
 ### Q&A
 ### References
+- [Scoop공식 사이트](https://scoop.sh/)
 
 ---
 # Neovim
