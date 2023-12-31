@@ -19,7 +19,7 @@ The process of downloading and setting up Neovim
 ### Q&A
 ### References
 - [Scoop공식 사이트](https://scoop.sh/)
-
+- [Neovim공식 사이트](https://neovim.io/doc/)
 ---
 # Neovim
 - ## Windows-PowerShell-Settings
