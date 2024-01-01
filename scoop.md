@@ -8,10 +8,6 @@
 
 
 ## Index
-- [scoop command set](#scoop-command-set)
-    - [**⚠ 해당 문서는 Windows PowerShell 5.1 버전을 기준으로 작성되었습니다**](#-해당-문서는-windows-powershell-51-버전을-기준으로-작성되었습니다)
-    - [**⚠ Scoop 설치시에는 관리자 권한이 없이 실행되어야 합니다(보안 관련 문제)**](#-scoop-설치시에는-관리자-권한이-없이-실행되어야-합니다보안-관련-문제)
-  - [Index](#index)
   - [PowerShell 버전 확인하기](#powershell-버전-확인하기)
   - [Scoop 설치](#scoop-설치)
   - [Package 설치](#package-설치)
