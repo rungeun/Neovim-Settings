@@ -37,4 +37,6 @@ Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 iwr -useb get.scoop.sh | iex
 ```
 
+>파월쉘 => 우분투로 변경
+
 
