@@ -21,9 +21,11 @@ The process of downloading and setting up Neovim
 ## 개발툴 설치
 Microsoft Store를 통해 2개의 프로그램 설치 
 >1. Windows Terminal Preview
+>
 >![캡처](https://github.com/rungeun/Neovim-Settings/assets/132816679/b0c712cd-9573-411a-8a8d-a76a52531746)
 >
 >2. Ubuntu(WSL)
+>
 >![ubuntu](https://github.com/rungeun/Neovim-Settings/assets/132816679/32adb9ee-1d22-444f-9d4c-fd971d866c50)
 
 실행화면
