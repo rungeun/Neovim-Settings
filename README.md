@@ -28,6 +28,12 @@ Microsoft Store를 통해 2개의 프로그램 설치
 >
 >![ubuntu](https://github.com/rungeun/Neovim-Settings/assets/132816679/32adb9ee-1d22-444f-9d4c-fd971d866c50)
 
+[ 윈도우 설정 ]
+
+1. Windows 기능 켜기/끄기
+2. Linux용 Windows 하위 시스템 켜기
+3. 재부팅
+
 실행화면
 ![s](https://github.com/rungeun/Neovim-Settings/assets/132816679/97e40ddf-728c-4e7a-a543-2d9f044c111b)
 
@@ -56,9 +62,14 @@ Microsoft Store를 통해 2개의 프로그램 설치
 
 `brew install zsh` zsh 패키지 설치
 
+` brew install bash`
+
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`  oh-my-zsh 설치
 
 `git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k`
+
+폰트 설정
+
 
 `nvim ~/.zshrc` 파일을 열어 다음 내용으로 수정 `ZSH_THEME="powerlevel10k/powerlevel10k"`
 
@@ -131,6 +142,9 @@ require("rungeun.core.options")
 require("rungeun.core.keymaps")
 require("rungeun.core.colorscheme")
 ```
+
+## 추가할 내용
+터미널창 컴퓨터이름 제거
 
 [a](https://www.youtube.com/watch?v=CF1tMjvHDRA)
 
